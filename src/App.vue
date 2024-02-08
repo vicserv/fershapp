@@ -32,7 +32,7 @@ const showLove = () => {
   addHeart();
   setTimeout(() => {
     showHeart.value = false;
-  }, 1000);
+  }, 2000);
   // delete index from array
   lovesMessages.value.splice(randomIndex, 1);
 
