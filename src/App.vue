@@ -20,7 +20,7 @@ const lovesMessagesInitial = [
   'Me haces muy feliz ❤️',
   'Soy un adicto a ti ❤️',
   'Cada minuto pienso en ti ❤️',
-  'Te amo mucho Fernanda ❤️',
+  'Te amo Fer ❤️',
 ];
 
 const lovesMessages = ref([...lovesMessagesInitial]);
